@@ -1,6 +1,12 @@
-Hey I'm Taylor! I'm an experienced developer & technical leader passionate about creating innovative open-source tools and solutions.
+Hey I'm Taylor! I'm an experienced developer & technical leader passionate about creating innovative open source tools and solutions.
 
-Check out my Linkedin [here](https://www.linkedin.com/in/taylorjrose1).
+## About Me
+
+I specialize in building **Model Context Protocol (MCP)** servers, **immigration advocacy tools**, and **developer productivity solutions**. My work focuses on creating transparent, accessible technology that empowers communities and enhances developer workflows.
+
+**Technologies I work with:** JavaScript/Typescript, React, Node, Python, MCP, RAG, Data Visualization, Search, Elasticsearch
+
+Check out my Linkedin [here]().
 
 ## Recent Projects
 
@@ -10,6 +16,15 @@ Check out my Linkedin [here](https://www.linkedin.com/in/taylorjrose1).
 | **ice-map.org** | [Interactive heatmap](ice-map.org) showing detention facility populations across the US. Bringing transparency to immigration detention | [ICE Map](https://github.com/trose/ice-locator-mcp/tree/main/web-app) |
 | **ice-locator-mcp** | MCP server that empowers AI agents with ICE detainee location capabilities through the U.S. Immigration and Customs Enforcement Online Detainee Locator System | [ice-locator-mcp](https://github.com/trose/ice-locator-mcp) |
 | **Mouse Jiggler MCP** | A lightweight mouse jiggler to prevent system idle, inspired by everyone's favorite Pokémon | [jigglypuff-mouse-jiggler-mcp](https://github.com/trose/jigglypuff-mouse-jiggler-mcp) |
+
+## 🔗 Connect & Collaborate
+
+- **GitHub**: [@trose](https://github.com/trose)
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/taylorjrose1)
+
+## Keywords & Topics
+
+`#MCP` `#ModelContextProtocol` `#Python` `#JavaScript` `#Typescript` `#AI` `#React` `#ImmigrationAdvocacy` `#DeveloperTools` `#OpenSource` `#DataVisualization` `#ICEDetaineeLocator` `#Transparency` `#SocialJustice` `#TechForGood`
 
 ---
 *"Building tools that make a difference, one commit at a time."*
