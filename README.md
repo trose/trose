@@ -16,6 +16,8 @@ Check out my Linkedin [here]().
 | **ice-map.org** | [Interactive heatmap](ice-map.org) showing detention facility populations across the US. Bringing transparency to immigration detention | [ICE Map](https://github.com/trose/ice-locator-mcp/tree/main/web-app) |
 | **ice-locator-mcp** | MCP server that empowers AI agents with ICE detainee location capabilities through the U.S. Immigration and Customs Enforcement Online Detainee Locator System | [ice-locator-mcp](https://github.com/trose/ice-locator-mcp) |
 | **Mouse Jiggler MCP** | A lightweight mouse jiggler to prevent system idle, inspired by everyone's favorite Pokémon | [mouse-jiggler-mcp](https://github.com/trose/mouse-jiggler) |
+| **ddgs-typescript** | TypeScript implementation of DuckDuckGo Search with modern architecture, schema validation, and comprehensive tooling | [ddgs-typescript](https://github.com/trose/ddgs-typescript) |
+| **trimp** | TRIMP (Typescript Requests IMPersonate) - The fastest TypeScript HTTP client that can impersonate web browsers | [trimp](https://github.com/trose/trimp) |
 
 ## 🔗 Connect & Collaborate
 
